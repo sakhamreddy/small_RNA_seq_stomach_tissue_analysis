@@ -2,7 +2,7 @@
 
 ## Experiment Overview
 
-I am conducting small RNA-seq analysis on the dataset obtained from the ENCODE project, specifically experiment [ENCSR681ARR](https://www.encodeproject.org/experiments/ENCSR573RGL/).
+I am conducting small RNA-seq analysis on the dataset obtained from the ENCODE project, specifically experiment [ENCSR573RGL](https://www.encodeproject.org/experiments/ENCSR573RGL/).
 
 **Status**: Released
 
