@@ -39,6 +39,7 @@ This dataset is part of the [ENCODE project](https://www.encodeproject.org/exper
 **Fragmentation Method**: Please refer to the corresponding document for more information.
 
 ## Data Availability
+The raw data files for this project are quite large, and therefore they have not been included in the repository. The data folder is excluded using `.gitignore`. Please create a placeholder directory named `data/` to replicate the folder structure if needed for running the analysis scripts.
 
 This dataset is being utilized for my RNA-seq analysis and is part of the [ENCODE project](https://www.encodeproject.org/experiments/ENCSR681ARR/). It should be cited accordingly when used.
 The generated data has been released and is publicly available. Please refer to the appropriate repository or database for more information.
