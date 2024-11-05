@@ -1,4 +1,4 @@
-# Small RNA-Seq Experiment README
+# Analysis of Small RNA from Human Stomach Tissue (ENCODE Project)
 
 ## Experiment Overview
 
@@ -53,4 +53,8 @@ This small RNA-seq experiment employed rRNA depletion for the targeted analysis 
 **Platform Details**: Sequencing was performed using the Illumina NextSeq 500 platform.
 
 ## Contact Information
+## References
+1. ENCODE Project Consortium. "ENCODE data and resources." [https://www.encodeproject.org/experiments/ENCSR681ARR/](https://www.encodeproject.org/experiments/ENCSR681ARR/)
+2. GTEx Consortium. "The Genotype-Tissue Expression (GTEx) project." [https://www.gtexportal.org/](https://www.gtexportal.org/)
 For more information about the experiment or any related inquiries, please contact the lead researchers or data repository team.
+
